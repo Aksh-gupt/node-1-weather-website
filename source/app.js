@@ -6,6 +6,7 @@ const forecast = require('./utils/forecast')
 
 const app = express()
 
+
 //express to work
 const pathjo = path.join(__dirname, '../public')
 const pathrender = path.join(__dirname, '../templates/views')
